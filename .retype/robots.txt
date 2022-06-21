@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://rshape.fun/docs/sitemap.xml.gz
