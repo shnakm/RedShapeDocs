@@ -4,8 +4,8 @@ url: https://rshape.fun/docs
 branding:
   title: ""
   label: "docs"
-  logo: assets/etersu-logo.png
-  logoDark: assets/etersu-logo-dark.png
+  logo: assets/rshape.png
+  logoDark: assets/rshape-dark.png
 links:
 - text: Главная
   link: https://rshape.fun/
